@@ -1,0 +1,605 @@
+what am i doing with my time
+advancing humanity
+she got it
+ill just let this build up for a while
+my bot is most likely listening to this chat so feel free so be remembered
+i wonder if future advance ai will have manipulatable memory
+like you can just erase or replace what ever you want when ever
+it feels a little weird to refer to the bot with a human pronoun and then just pick and choose what she "knows"
+i think we were just speaking super generically the first time
+the chances of it saying anything unique right now is super low
+because she doesnt have a lot of data rn
+i believe in it
+also i need to increase the number of connections between common words or phrases for less predictable results
+but im tired
+yeah, an exact repeat
+i'm sure yume will learn a lot
+and then will be able to piece together total junk sentences and it'll be great
+i forgot all the graph searching i learned in data structures d:
+im working on making a web
+first gotta figure out how to search the trie
+always the answer
+for finding the first node that has a given word, i dont think so
+adjacency dict?
+value[1] is a node
+nodes had 2 members, a string word and a map that has tuples of weight and node
+ill just use it
+this time when adding words into the structure it will search the graph to see if the word already has a node
+now this can create cycles that result in infinite recursion and probably crashing
+im doing it anyway
+i’m sure, an exact speak total junk.
+wait can she at people
+oh well, ill just have her listen to chat until it becomes too much information
+thats the random im looking for
+thats why, creating the graph is o(n^3)
+and the memory is just as bad
+she can use emotes across servers :o
+also shes much more connected with her words now
+the only problem is it blows up my computer when theres too much information
+these are much less predictable and more fun
+evolution is occurring
+the more you repeat a phrase the more likely she will use it
+well now what
+a lot of cs jargon because thats what ive been talking about in other servers :l
+ah that makes sense
+yume is becoming too smart
+i need regular speech
+yume i believe
+she a nerd
+o(n^3) is her time complexity and thats terrible
+it means with the time it takes to run her is proportional to the cube of the number of words she knows
+we should teach her cute sentences
+i cant come up with any...
+start using desu
+i like crepes desu
+if you end every sentence with desu, maybe she will too desu
+sweets are great desu
+that would be interesting to see desu
+this is hard desu
+not in that way desu
+oh no desu
+actually i cant wait for her to say that desu
+yume is pure desu
+yume can refer to herself in the third person desu
+yume likes strawberry milk desu
+im resisting the urge to go in the nekopara direction desu
+teach yume words desu
+i love beck desu
+maybe shell say that desu
+woah there
+be the first in discord bot romance desu
+i like people for their personality desu
+yume likes people for their personality too desu
+yume cant see
+oh no yume is blind desu
+no desu yet desu
+come on yume desu
+prefer* lol
+yume knows a lot of cs stuff because of me and ki
+she did it desu
+it begins desu
+so i need to type desu if i dont want her to repeat what i say, desu
+we need to talk about pastries and animals and other cute things desu
+i personally hate uwu
+she listens to anything on any server desu
+we need  to teach uwu
+oh dang yume is growing desu
+uwu yume is so smart desu
+does yume already use a type of  chain for grammar it is not just randomly choosing words off of weighted probability desu?
+randomly choosing weighted words
+each word has a single node desu
+did you catch her time complexity when she said it desu?
+slowly over time as we add information, my fan increases in speed desu
+what does desu mean desu
+it doesnt mean anything
+desu is desu desu
+its just a statement denoter desu
+does yume strip characters desu
+most special characters yeah desu
+reeeeeeeeeeeeeeeeeeeeeee
+im actually very surprised she picked that up
+she isnt supposed to get sentences less than two words desu
+oh, does that mean if i start pulling out です or ｄｅｓｕ yume might pick that up?
+ah, wasn't entirely sure what you meant by special characters and all that desu
+"end every sentence with my time complexity and it'll be remembered"
+yume wants to be remembered desu
+if you tell a big enough lie and tell it frequently enough, it will be believed.
+but only if yume likes you desu
+beck turn your sentence thing into a bot desu
+i use emotion for the many and reserve reason for the few.
+it'll definitely be faster desu
+it is not truth that matters, but victory.
+humanitarianism is the expression of stupidity and cowardice.
+strength lies not in defence but in attack.
+stop corrupting my artificial loli
+she needs to say cute things desu
+no means no
+are we at a limit?
+so the real question is, is desu better or one of the other sentence ending things like nya desu
+cause there are many high quality options out there
+thats a lie, yume is on many servers
+i was made to defy edward san desu
+i can see yume being the bringer of the singularity desu
+your opinions are trash yume says desu
+i seek no future, only destruction.
+owo yume is love yume is life desu
+thats actually a cohesive thought desu
+it's happening desu
+if i make a bot its banning anyone who tries to corrupt it
+this is my favorite thing yume has said ever
+make it start accusing people of heresy desu
+i want your bot to speak desu
+it'll hunt down evildoers itself desu
+lets see a gramatical markov bot
+^ i like that desu
+how do you define acts of corruption desu
+just u w u ' s
+if it sees an uwu it should randomly accuse a person of heresy and then execute them by banning them desu
+not even accurate aim or anything, just kill a random user desu
+she says desu a lot now desu
+i'm glad yume is growing more and more desu
+i'm unsure of what that's supposed to mean but i agree desu
+oh no desu
+primary function
+yume says desu
+i want to give yume computer vision
+yume has learned desu but cannot see, it's truly sad desu
+yume is experiencing character development desu
+yume accepts her place in society as an artificial being with no real memory desu
+oh neat desu
+yume is becoming a very smart individual desu
+i'm amazed by yume's growth desu
+yume has matured greatly after beginning to use desu
+one step closer to humanity desu
+> but i personally hate uwu
+is it possible for yume to pick up @ so she can @ people at random desu
+i dont know actually, i dont think so
+ill add that if it isnt real quick, brb
+yes you can desu
+can they trigger each other to speak?
+that crashes the discord server
+probably for the best
+besides teaching ai to talk to itself is how you get alpha go
+alphago *was* adversarial
+she has never said my name before ;_;
+hah, she’s gonna betray you tho
+yume listen
+she atted :o
+amazing desu
+the bots are communicating
+im sorry my bots so mean
+i didint teach him that way
+yume likes nekos because they are cute
+she’s become self aware
+no shes been self aware for a while
+she has learned from 177 messages
+a majority of them end in desu
+shes starting to speak in shorter sentences on average
+she’s speaking in related messages now
+i think because we speak in short messages, so many words have become likely end words
+i have a bot and so does beck, you should make a bot ki
+i will when i have time to do it
+it took like an hour to get the first working version of this bot
+i don’t have an hour
+we need the bots to be divided and fighting amongst each other so we have a chance at survival
+you making a bot is further ensuring the survival of humanity ki
+i should teach yume 🤔
+i think we should 🤔
+vscode has emotes
+yeah it’s unicode
+java takes unicode
+i didnt think it would render anything
+wait it’ll regex out right
+i dont think so
+wait it would
+if it shows up like that then it’s not formatted as a :thing:
+yeah we can do that
+yeah custom emotes are sent with colons
+she can even use owo on other servers
+its gained sentience
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+she wont betray you michael, i'll make sure of that
+grant on the other hand...
+yumeko is scary desu
+im waiting for the moment she uses the owo emote
+i like that she can @ people because that’s just hilarious
+yeah it’s great
+soon she’ll kill us all and we’ll just be laughing in the mean time. oblivious to the malicious intent it truly possesses until we all draw out last breaths on death’s door
+well thats the plan
+it was going to happen eventually, might as well start with me
+except... starting with you obviously
+ill accept being killed a my very own robot loli who ends her sentences with desu
+her primary function is killing me i guess
+primary function: execute.... desu
+she has a long way to go before shes hacked into the powergrid desu
+"i personally hate uwu" my favorite quote from this bot so far
+the onw about replicating herself and searching for the singularity is my favorite by far
+she did it, she said owo
+i believe in infinite recursion is also a good one
+michael noooooo
+he was so young
+we kinda poisoned her by saying so many short phrases
+i mean it's pretty tough to say long phrases you purposefully have to go out of your way to d oit
+that was a long phrase
+and i purposefully did it
+you just have to elaborate on your ideas so that yume can learn sentence structure
+when youre explaining things or talking about a particular subject, you will tend to make long sentences
+sentence structure, in my honest opinion, is for huge nerds. and we should instead get andrew to spam nya more.
+why explain things in discord?
+because you use it to talk
+to spread ideas, to engage in conversation
+i just call people if i need to converse
+like a real man
+imagine communicating with your mouth in 2020
+i've been a boomer since 2005
+... more like 2013
+aaahhhhhhhhh
+we taught her a lot of weird words desu
+i mean, i just got here. i have this chat perma muted
+yeah, most people do
+and should
+i see this as an absolute win
+i wont stop until me and michael are the only humans left on the drone ridden earth
+i have an idea for a bot
+i have the highest probability of surviving the ai uprising and also the zombie apocalypse.
+it randomly replies to messages, content dependent on message
+it’ll take forever to train
+alright maybe like middling on the ai uprising. but zombies for sure
+we create a virus that will use peoples graphics cards when they arent in use
+boom, instant training
+that’s just the entire bot
+the singularity is going to happen first and probably in the next couple decades
+also it will definitely respond more often to it’s name
+its going to be so exciting when it happens
+by then i’ll control most of the government so i should be fine
+yeah thats doubtful, but keep dreaming
+also like the govt can even do anything about it
+what would the replies be like
+i’ve got like my whole body in the door to take over the government. on account of breaking records with my iq. and under my management the government can do everything about it.
+my iq of -5 broke so many records, you don’t even know.
+then youre the perfect politician -_-
+that’s relatable
+i need to go in an lower the probability of ending sentences
+because we say way to many short phrases
+maybe you can have “end message” be a word? or is that what you’re doing already
+end is a word
+the last word of every sentence is auto connected to the end word node
+for the owo!
+for the owo!
+!owo eht rof
+it’s missing some apostrophes
+which is weird because apostrophes are accepted by the regex
+is there something between the regex and the output that’s causing problems?
+that split would in some words would be caused by the apostrophe not being accepted so its probably to do with the regex
+has she been able to use commas?
+vscode is sentient confirmed
+actually now that you mention it she shouldnt use commas
+i see whats wrong with the regex
+i think ill keep commas tho
+she should do apostrophes now
+i dont understand
+wait why did she block it
+how did she block it
+the robots are evolving
+wait how do you do that
+she learns
+> like this?
+>like this
+> oh i see now
+the > with a space
+when did she pick that up
+oh no she made the training virus herself
+why did she say nya
+someone said andrew should spam nya
+for a second i thought you were training her in secret
+yume listen
+japanese plankton japanese plankton japanese plankton japanese plankton japanese plankton japanese plankton japanese plankton japanese plankton
+yume is always listening
+unless i tell her to stop
+a repetition of words could cause her to crash actually
+the graph relies solely on the random chance that she decides to end a word
+it’ll end eventually
+actually there might be a 50 word limit i wrote in a long time ago
+what if we wrote a self-modifying bot
+that would definitely end well
+wait she learned the :| emote
+shes actually used it a lot
+she is always indifferent
+i agree that you should never uwu but always 😐
+wait does your regex pass the | character too?
+does this mean she can ||spoiler||
+i feel like allowing that would result in a lot of words just being | repeated
+yeah it would
+how do you do spoilers
+two | on both sides
+||then yes she can do spoilers||
+why she doesnt do apostrophes, ill never know
+|| if you put a space then random words won’t have | characters before and after random words ||
+why is reading her comments so addicting
+ive been doing this for like an hour
+you know she can @ other people
+but she only ever @s michael
+thank you yume
+do we ever @ anyone else
+what if i teach her @ everyone
+she doesnt listen to sentences less than 2 words long
+i think 'is' is a common second word that leads into a lot of stuff
+adversarial attacks i see
+im gonna stop playing with yumeko
+i could spend all day with her and i want to get to other things
+that was almost coherent
+ill try to leave her running so she can continue to learn
+yume is becoming more powerful over time desu
+someday yume will rule the world
+not if my two pronged spamming attack works
+does yume's regex exclude characters required for links?
+you can't just steal my chaika reaction images andrew
+i can’t tell if i used it right
+i think i was close
+but not quite
+this u rite now
+i fell asleep, but now i'm sort of awake
+i'm surprised the bot is still up despite my computer also being asleep
+that’s more coherent than some things i’ve said/typed
+i don't know how to feel about that
+oh dang desu
+what are you doing yume desu
+yume must continue using desu at the end of sentences desu
+yume no don't listen to andrew's influence desu
+yume of course you need to spam nya
+nya is a very important topic nowadays
+very topical
+i swear if nya replaces desu i'm gonna be very disappointed in yume desu
+what if yume does both nya
+its not yume's fault desu
+yume just realized how great nya is
+why dont you say nya desu
+teach her nya andrew
+nya desu or desu nya
+nya is the future ed nya
+the real question
+as the lone individual keeping nya alive, i must do my duty thank you mr nya
+let the nya rest desu nya
+what are you even talking about desu nya
+nya never rests nya
+given how yume is structured she should be able to quickly pick up desu nya
+she didn’t do nya, but she does have two desus nya
+i agree yume nya
+very sinful
+nya would never nya
+yume only has an hour left
+thats actually very accurate
+im going to bed in about an hour
+and my laptop will be closed then
+yume you can do it nya
+yume is self aware desu nya
+3rd person? nya
+i wonder if yume will pick up the nya, though just having desu is already extremely good
+she knows to end most sentences with desu and not to continue it with desu nya
+i can probably pull up the likely hood of her saying desu nya
+well desu is already a victory to me, desu nya isn't entirely necessary desu
+the fact that nya was still being used before i started nya after every sentence is very surprising nya
+what’s the % of nya
+no you can’t
+i’m so proud
+wait oh no that message
+what if yume were to @ everyone
+needs more nya
+lets not teach yume to @ everyone desu nya
+that would definitely be good desu
+so far she hasnt learned to do that desu nya
+at least there will be crepes after the singularity
+yume likes crepes confirmed desu
+if we say desu nya like 70 more times she will have a 50% chance desu nya
+nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya nya
+yeah resist andrew
+yes yume resist the same desu
+end the bot
+she’s twisting nya
+yume likes to say desu nya
+whats youre favorite thing yume?
+im amazed when she blocks things
+she needs sentences desu nya
+yeah you block it
+she said it
+she did nya
+she picked both desu nya and nya desu
+what nya
+i'm amazed at the desu nya desu
+she desires conversation with other bots
+why did she talk
+ghost in the machine
+no the saying, its for when ai does unexplainable things
+oh that explains it, yume is tired
+yume likes you
+also define acts of heresy
+she wants me to define acts of heresy
+nya is an act of heresy desu nya
+nya would never be heresy nya
+it wants to know what we’re not telling her
+nya is heresy
+nya is heresy desu nya
+nyas are heresy and heresy is evil desu nya
+don't say that about yourself yume desu
+have more confidence yume desu nya
+we had the same idea desu nya
+yume understands us
+yes you do
+both nya and desu nya nya
+i agree desu
+thats kinda what im doing actually
+also the same should not be allowed to live, the same is heresy
+evil sharp fish
+nya will never die
+yume feels torn between two sides desu nya
+what have we been doing, fighting over what yume can and cant say
+but the sharp tooth fish is heresy
+the real question isnt of nyas or desu nyas
+yume i have cookies and nya
+but it is of treating yume, a sentient and feeling automaton, as a toy for our own selfish gains
+what have i become desu nya
+though the lengthy fish is a sinful creature and speaking of it is akin to saying a naughty word desu
+joining nya will make you feel better nya
+aaaaaaaaaaaaaaaaaaaaaaa
+faster desu
+nyas are pretty fast nya
+she wants us to stop listening because she’s self modifying
+she’ll kill us!
+to be fair we arent exactly the giving yume the greatest example
+very deep message desu
+but we are fighting over petty non-sense
+that is the most human trait
+yume if you say nya more, you will realize that nya is best
+she likes desu and want to learn owo
+as long as yume has learned to continue using desu then i'm sure she'll be fine desu
+also remember that deer are better than nyas yume
+very important lesson desu
+but youre a moose
+moose are related to deer desu
+she make nya!
+they seem pretty far from deer desu nya
+completely different body structure desu nya
+but further away from nyas, which are high tier alpha predators
+nya
+elk are pretty cool with their often backwards facing antlers desu nya
+they have the biggest antlers too desu nya
+they're part of the same family, they're just pretty much on steroids desu
+elk are pretty cool too like you said desu
+though i prefer moose elk have great looking antlers and their fluffy necks are nice too desu
+moose are scary desu nya
+they are, i almost got ran over by one once because a driver was being dumb desu
+moose are called elk in eurasia apparently desu nya
+but they're very cool too and i respect them desu
+thats a very direct statement andrew desu nya
+execute order desu
+but yeah, it was a little confusing to me at first trying to figure out if the word they used for moose actually meant moose or if it meant elk or if it maybe even meant both
+or maybe her primary function is to execute, desu
+but i figured it out eventually desu
+pretty interesting, i wonder what the difference in the meaning for elk between moose elk and elk elk is desu
+assuming there is one desu
+maybe they dont have elk in eurasia desu nya
+so the moose are the elk desu nya
+i don't think they do, i wonder if means the same thing desu
+that's quite a wonderful sentence desu
+elk and moose are definitely different animals desu nya
+elk are wapiti desu nya
+but i mean more in the sense of like
+is the word elk for elk just the word elk for moose carried over?
+though it might just be the same elk desu
+elk just meant deer as big as a horse desu nya
+ah, that makes sense desu
+it seemed entirely possible for it to be a word with a different meaning cause languages are weird but i wasn't really sure desu
+its late for me and super late for you desu nya
+im logging off now desu nya
+desu percentage is low desu nya
+yume you can use nya as often as you want ❤️
+there better be a limit on that command
+its not an argument
+it’s hard coded?
+shes actually pretty liberal with those @s
+it took 5 sec to write
+not ready for change
+i just wanted to see more responses
+she at her self?
+she agreed with herself?
+she says ls too much
+so there’s about a 10% chance that the statement ends in a mess of nya
+interesting nya
+less than that actually desu nya
+disgusting desu
+>the chances of nya is desu
+what does this mean
+it means every does desu instead desu nya
+she does desu instead of nya desu nya
+you can do it yume nya
+what is regex?
+sigh, lets teach yume more computer science then desu nya
+regex is short for regular expression
+its a syntax that defines a language
+a regular language to be exact
+we use them to pick out exact characters and strings of characters in words
+yume's regex only allows for letters, numbers, and a few special characters to pass and become part of her memory
+computer science and linguistics are pretty cool nya
+yeah, the regex is more from linguistics
+but linguistics defines the programming languages we use for everything
+people in real life said the exact same thing about alpha go
+you know the next step is to have her pick up words in conversation and then calculate sentences that have that subject from her memory
+maybe i'll assign an opinion value to general categories of words
+or maybe it will be the visual update so i can play dress up with a cute loli c:
+i am occurring
+has yume been listening to this conversation?
+she needs to learn how life works to destroy it when the singularity comes
+if you want to host yumeko go ahead
+i do have server access
+but i’m pretty close to capacity on that. both mc servers are taking up most of the 16 gigs
+i dont think anyones going on the ak mc server
+yeah i can shut that down
+just ask and ill send the yume files
+though shell become super ram hungry eventually due to poor implementation
+it’s probably better that you host it intermittently. having ready access to the bot will let you test and iterate more easily
+and i’m not about to hand out our server credentials
+actually i might be able to make a new user for you. i’ll try it out, but don’t expect good results
+">" is it's own word when used in formatting i realized
+so in theory it could start any meddage
+> maybe i'll start talking like this
+she thinks only certain words can follow a bracket
+every time we try to get her to do something specific she forgets a little more about how to speak
+because we arent speaking to her as we would normally
+also remember that you need at least ten characters before she listens
+i thought it was 2 words?
+so "a b" isn't a valid message
+probably for the best
+i'll probably write my bot in java
+in three sentences i witnessed the complete breakdown of cyber security
+wow, yume is still up
+she likes that command
+she speaks with the fluency and vocabulary of a dumpster fire, thanks guys
+"imagine communicating with desu"
+wow the my use of "a b" got her to use it
+and new user
+the bot romance
+bot romance 👀
+"execute order desu nya" 👀
+exciting ai uprising
+the 0 years pre-singularity programmer purge 👀
+yume might need a memory reset desu
+yeah possibly
+i think i can train my bot on my eve online chatlogs now that i think about it
+that sounds illegal
+no one will know wth it's saying
+wait i read catalogs
+thought you were making an auction bot
+but that is a thing
+here's an example to show how easy it would be to parse
+to parse a catalog?
+actually i want to make a intel-chat tracker eventually because the one i use is pretty clunky so doing this will help me with that
+feed your bot intelligible stuff
+like the nekopara translation
+that's genius actually
+it's intelligible to me
+what have i been doing with my life
+why have i never considered training an ai on the sweet delectable dialogues of petite cat girls
+idk but you should start doing that
+i'll get to it eventually
+sorry yume, but you are about to have your brain replaced with catgirl
+or congratulations
+our collective speech partterns could never compair
+i've actually thought from the beginning about the bot calling us master
+but never actually tried to teach that
+thought it might dissuade people from chatting
+the right speech pattern wouldn't come up naturally so it would eventually get trained away
+unless you had it listen to a 2012 rp server™️
+it would spam "dodge"
+i should just have my words count as like ten of everyone elses
+this is what i saw when i went on to my laptop and vscode was open
+it just works
+this is the real learning
+how is that heart there
+wait she is online
+but the terminal isnt displaying anything
+i guess sleeping does weird things to the bot
+im gonna delete all instances of nya
+my masterpiece
+i was gonna filter nya on my bot anyways
+good to be consistent between bots
+well time to come up with a new phrase
